@@ -1,0 +1,19 @@
+name: ✨ Feature / content request
+description: Suggest a new feature, page or content update
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline (if any)
+      placeholder: e.g. before Semana de Acolhimento

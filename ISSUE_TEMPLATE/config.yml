@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Contact the NEETI board
+    url: mailto:neeti@tecnico.ulisboa.pt
+    about: For anything that isn't about code or the website
