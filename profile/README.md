@@ -5,8 +5,3 @@
 Somos o núcleo de estudantes de LETI/METI do Instituto Superior Técnico. Aqui vivem os projetos técnicos do núcleo, a começar pelo nosso website.
 
 *We are the student association for Telecommunications and Computer Engineering at Instituto Superior Técnico (Lisbon). This is where our tech projects live.*
-
-### 📫 Contacto
-
-<!-- Substituir pelos contactos reais -->
-🌐 Website · 📸 Instagram · ✉️ neeti@tecnico.ulisboa.pt
